@@ -1,18 +1,21 @@
-company_name: "Awesome Email Marketing"
+company_name: Awesome Email Marketing
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Email Marketing"
-initial_prompt: "A curated directory of email marketing, newsletter and marketing-automation platforms. Include products such as Mailchimp, Kit, beehiiv, MailerLite, Brevo, Klaviyo, ActiveCampaign, Substack, Ghost, Buttondown, Listmonk, Mautic, plus other notable commercial and open-source options. Categories: Email Marketing Platforms, Newsletter Platforms, Marketing Automation, E-commerce Email, Open-Source & Self-Hosted, Email Builders & Templates. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-email-marketing-website"
-company_website: "https://email-marketing.ever.works"
+name: Awesome Email Marketing
+initial_prompt: "A curated directory of email marketing, newsletter and
+  marketing-automation platforms. Include products such as Mailchimp, Kit,
+  beehiiv, MailerLite, Brevo, Klaviyo, ActiveCampaign, Substack, Ghost,
+  Buttondown, Listmonk, Mautic, plus other notable commercial and open-source
+  options. Categories: Email Marketing Platforms, Newsletter Platforms,
+  Marketing Automation, E-commerce Email, Open-Source & Self-Hosted, Email
+  Builders & Templates. For every item capture the official website, a short
+  factual description, pricing model (free, freemium, paid, open source),
+  deployment (cloud or self-hosted), key features and integrations."
+website_repo: ever-works/awesome-email-marketing-website
+company_website: https://email-marketing.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
