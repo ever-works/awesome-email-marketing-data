@@ -1,0 +1,12 @@
+name: "Unlayer"
+description: "Drag-and-drop email builder and design tool for teams. Integrates with ESPs and offers exportable HTML templates. Free tier and paid plans."
+source_url: "https://unlayer.com/"
+category: "Email Builders & Templates"
+tags:
+  - "freemium"
+  - "api"
+  - "templates"
+  - "drag-and-drop"
+icon_url: "https://icons.duckduckgo.com/ip3/unlayer.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://unlayer.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

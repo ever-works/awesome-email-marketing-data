@@ -1,0 +1,12 @@
+name: "Kit"
+description: "Creator-focused email marketing and automation platform, formerly ConvertKit. Helps creators grow audiences and sell digital products. Offers free and paid plans."
+source_url: "https://kit.com/"
+category: "Newsletter Platforms"
+tags:
+  - "freemium"
+  - "creator"
+  - "api"
+  - "automation"
+icon_url: "https://icons.duckduckgo.com/ip3/kit.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://kit.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

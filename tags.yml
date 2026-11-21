@@ -1,0 +1,56 @@
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: small-business
+  name: "Small Business"
+- id: crm
+  name: "CRM"
+- id: creator
+  name: "Creator"
+- id: automation
+  name: "Automation"
+- id: newsletter
+  name: "Newsletter"
+- id: free-plan
+  name: "Free Plan"
+- id: sms
+  name: "SMS"
+- id: paid
+  name: "Paid"
+- id: e-commerce
+  name: "E-commerce"
+- id: enterprise
+  name: "Enterprise"
+- id: free
+  name: "Free"
+- id: monetization
+  name: "Monetization"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: membership
+  name: "Membership"
+- id: event-marketing
+  name: "Event Marketing"
+- id: webinars
+  name: "Webinars"
+- id: landing-pages
+  name: "Landing Pages"
+- id: saas
+  name: "SaaS"
+- id: behavioral
+  name: "Behavioral"
+- id: batch
+  name: "Batch"
+- id: amazon-ses
+  name: "Amazon SES"
+- id: bulk
+  name: "Bulk"
+- id: templates
+  name: "Templates"
+- id: html-export
+  name: "HTML Export"
+- id: drag-and-drop
+  name: "Drag-and-Drop"

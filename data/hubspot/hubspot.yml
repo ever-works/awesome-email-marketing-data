@@ -1,0 +1,12 @@
+name: "HubSpot"
+description: "All-in-one CRM, marketing, sales, and service platform. Includes email marketing, automation, and lead management. Free CRM with paid marketing hubs."
+source_url: "https://hubspot.com/"
+category: "Marketing Automation"
+tags:
+  - "freemium"
+  - "api"
+  - "crm"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/hubspot.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://hubspot.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

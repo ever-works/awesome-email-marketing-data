@@ -1,0 +1,12 @@
+name: "Stripo"
+description: "Email template builder and design platform for marketing teams. Exports HTML to over 80 ESPs and offers interactive modules. Free and paid plans."
+source_url: "https://stripo.email/"
+category: "Email Builders & Templates"
+tags:
+  - "freemium"
+  - "api"
+  - "templates"
+  - "html-export"
+icon_url: "https://icons.duckduckgo.com/ip3/stripo.email.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://stripo.email/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

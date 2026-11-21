@@ -1,0 +1,12 @@
+name: "AWeber"
+description: "Email marketing and automation service for small businesses and creators. Includes drag-and-drop builder and autoresponders. Offers a free plan for up to 500 subscribers."
+source_url: "https://aweber.com/"
+category: "Email Marketing Platforms"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "small-business"
+icon_url: "https://icons.duckduckgo.com/ip3/aweber.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://aweber.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

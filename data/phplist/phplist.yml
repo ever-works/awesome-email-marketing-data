@@ -1,0 +1,12 @@
+name: "phpList"
+description: "Open-source email marketing manager for self-hosted campaigns. Handles large subscriber lists and batch processing. GPL licensed with optional plugins."
+source_url: "https://phplist.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "batch"
+icon_url: "https://icons.duckduckgo.com/ip3/phplist.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://phplist.com/>\n- Repository: <https://github.com/phpList/phpList>\n\nLicense: GPL.\n"
+updated_at: "2026-11-21 07:49"

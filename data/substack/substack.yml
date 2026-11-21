@@ -1,0 +1,12 @@
+name: "Substack"
+description: "Newsletter platform that enables writers to publish and monetize subscriptions. Free to use; Substack takes a percentage of paid subscriptions. No setup fees for publishers."
+source_url: "https://substack.com/"
+category: "Newsletter Platforms"
+tags:
+  - "free"
+  - "creator"
+  - "newsletter"
+  - "monetization"
+icon_url: "https://icons.duckduckgo.com/ip3/substack.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://substack.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

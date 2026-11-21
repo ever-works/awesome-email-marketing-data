@@ -1,0 +1,12 @@
+name: "Buttondown"
+description: "Minimalist newsletter platform for writers and creators. Focuses on simplicity with email automation and paid subscriptions. Offers free and paid plans."
+source_url: "https://buttondown.email/"
+category: "Newsletter Platforms"
+tags:
+  - "freemium"
+  - "creator"
+  - "newsletter"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/buttondown.email.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://buttondown.email/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

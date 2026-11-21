@@ -1,0 +1,12 @@
+name: "Brevo"
+description: "CRM and marketing platform offering email, SMS, and chat. Serves small to mid-sized businesses with automation and transactional messaging. Free plan available with paid upgrades."
+source_url: "https://brevo.com/"
+category: "Email Marketing Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "sms"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/brevo.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://brevo.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

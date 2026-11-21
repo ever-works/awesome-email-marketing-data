@@ -1,0 +1,12 @@
+name: "Mailchimp"
+description: "All-in-one marketing platform for email campaigns, audiences, and automation. Suitable for small businesses and enterprises. Offers a free tier and paid plans based on contacts."
+source_url: "https://mailchimp.com/"
+category: "Email Marketing Platforms"
+tags:
+  - "freemium"
+  - "api"
+  - "small-business"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/mailchimp.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://mailchimp.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

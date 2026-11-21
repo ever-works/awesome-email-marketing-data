@@ -1,0 +1,12 @@
+name: "Omnisend"
+description: "E-commerce-focused email and SMS marketing platform. Integrates with Shopify, WooCommerce, and BigCommerce for automation workflows. Free plan and paid tiers available."
+source_url: "https://omnisend.com/"
+category: "E-commerce Email"
+tags:
+  - "freemium"
+  - "api"
+  - "e-commerce"
+  - "sms"
+icon_url: "https://icons.duckduckgo.com/ip3/omnisend.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://omnisend.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

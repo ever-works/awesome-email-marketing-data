@@ -1,0 +1,12 @@
+name: "Drip"
+description: "E-commerce CRM and email automation tool for online brands. Focuses on personalized cart abandonment and product recommendations. Paid plans based on contacts."
+source_url: "https://drip.com/"
+category: "E-commerce Email"
+tags:
+  - "paid"
+  - "api"
+  - "e-commerce"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/drip.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://drip.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

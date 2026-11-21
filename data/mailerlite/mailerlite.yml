@@ -1,0 +1,12 @@
+name: "MailerLite"
+description: "Email marketing and automation platform with drag-and-drop editor and landing pages. Targets small businesses and creators. Includes a free plan for up to 1,000 subscribers."
+source_url: "https://mailerlite.com/"
+category: "Email Marketing Platforms"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "small-business"
+icon_url: "https://icons.duckduckgo.com/ip3/mailerlite.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://mailerlite.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

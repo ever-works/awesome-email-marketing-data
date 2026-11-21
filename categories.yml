@@ -1,0 +1,12 @@
+- id: email-marketing-platforms
+  name: "Email Marketing Platforms"
+- id: newsletter-platforms
+  name: "Newsletter Platforms"
+- id: marketing-automation
+  name: "Marketing Automation"
+- id: e-commerce-email
+  name: "E-commerce Email"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: email-builders-and-templates
+  name: "Email Builders & Templates"

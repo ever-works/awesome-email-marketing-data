@@ -1,0 +1,12 @@
+name: "Mautic"
+description: "Open-source marketing automation platform for email, campaigns, and lead management. Self-hosted with extensive integration options. Community-driven and GPL licensed."
+source_url: "https://mautic.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/mautic.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://mautic.org/>\n- Repository: <https://github.com/mautic/mautic>\n\nLicense: GPL.\n"
+updated_at: "2026-11-21 07:49"

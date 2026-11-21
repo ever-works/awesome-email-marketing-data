@@ -1,0 +1,12 @@
+name: "Constant Contact"
+description: "Email marketing platform for small businesses and nonprofits. Provides templates, list management, and event marketing tools. Paid plans with a free trial."
+source_url: "https://constantcontact.com/"
+category: "Email Marketing Platforms"
+tags:
+  - "paid"
+  - "api"
+  - "small-business"
+  - "event-marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/constantcontact.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://constantcontact.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 07:49"

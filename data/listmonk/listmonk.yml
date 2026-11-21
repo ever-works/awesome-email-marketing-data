@@ -1,0 +1,12 @@
+name: "Listmonk"
+description: "Self-hosted newsletter and mailing list manager with a modern web interface. Supports campaigns, lists, and templates. Released under AGPL license."
+source_url: "https://listmonk.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "newsletter"
+icon_url: "https://icons.duckduckgo.com/ip3/listmonk.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://listmonk.com/>\n- Repository: <https://github.com/listmonk/listmonk>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 07:49"

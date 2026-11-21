@@ -1,0 +1,12 @@
+name: "Ghost"
+description: "Open-source publishing platform for newsletters and membership sites. Can be self-hosted or used via Ghost Pro hosting. Built for professional publishers and creators."
+source_url: "https://ghost.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "creator"
+  - "membership"
+icon_url: "https://icons.duckduckgo.com/ip3/ghost.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ghost.org/>\n- Repository: <https://github.com/TryGhost/Ghost>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 07:49"
